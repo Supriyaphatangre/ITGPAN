@@ -1,0 +1,18 @@
+1) Exploring Android
+
+2) Open Handset Alliance
+
+3) Ecosystem of Android 
+
+4) Introduction to Github
+
+5) Login to Github
+
+6) Learn Github Command : git -v
+                          mkdir IT22
+                          git init
+                          git status
+                          git add . /git add "file name"
+                          git config --global user.name
+                          git config --global user.email
+                          git commit -m "add file"
