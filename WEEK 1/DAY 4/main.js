@@ -1,3 +1,3 @@
-function fun(){
+function fun (){
     alert("external js")
 }
