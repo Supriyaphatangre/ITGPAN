@@ -1,0 +1,26 @@
+body{
+    background-image: url("nature.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+h3{
+    color: brown;
+}
+
+#name
+{
+    color :coral
+}
+  @media (max-width: 500px){
+    #name{
+        color :blue
+    }
+  }
+
+.temp{
+    height: 200px;
+    background-color: aquamarine;
+    margin: 70px;
+}
