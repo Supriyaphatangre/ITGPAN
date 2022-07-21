@@ -20,11 +20,7 @@ import NotFound from './pages/NotFound.page';
         </Routes>
       <Footer/>
       </Router>
-     
-     <NotFound/>
-     
-     
-    
+
      </div>
 
     
